@@ -30,4 +30,4 @@ CSV HEADER;`
 	
 	`DIVIDE((current_week_revenue - previous_week_revenue), previous_week_revenue)`
 
-The tutorial followed for this project is : https://www.youtube.com/watch?v=8XoDVwWdaqI&ab_channel=RishabhMishra
+
